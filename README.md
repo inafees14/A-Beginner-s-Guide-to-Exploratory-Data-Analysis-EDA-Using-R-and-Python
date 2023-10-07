@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @inafees14
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram @TheNafeesIqbal
+- 👋 Hi, I'm @inafees14
+- 📊 Statistics Student | 💡 Data Science Enthusiast
+- 🌱 Currently diving into Data Science and Predictive Modeling
+- 🤝 Open to Collaborate on Exciting Data Projects
+- 📫 Let's connect on Instagram: @TheNafeesIqbal
 
 <!---
 inafees14/inafees14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
